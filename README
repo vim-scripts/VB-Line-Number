@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=464
+
+When the VB command-line compiler reports errors, the line #s are as if you were editing in the VB editor.
+
+This script translate Line #'s reported by vb command line to the actual source code line.
+
+Simply type  <VBline#>gvb  or  :VGO <VBLine#>  
+and you go to the corresponding line in the VB code.
+
